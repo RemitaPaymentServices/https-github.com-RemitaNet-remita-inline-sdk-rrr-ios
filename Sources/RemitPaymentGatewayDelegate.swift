@@ -16,5 +16,5 @@ public protocol RemitaPaymentGatewayDelegate {
      Method is invoked when payment processing is completed
      */
    func onPaymentCompleted(paymentResponse: PaymentResponse)
-   
-}
+    
+   func onPaymentFailed(paymentResponse: PaymentResponse)}
