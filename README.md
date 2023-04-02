@@ -12,7 +12,6 @@
 
 **2.0  TRY IT NOW**
 
-
 ## OVERVIEW
 
 The following pages outlines the steps to integrating Remita Inline Payment SDK to your app.
